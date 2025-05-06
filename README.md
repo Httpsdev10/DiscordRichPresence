@@ -18,7 +18,7 @@ Show your current Roblox game on Discord automatically.
     ```
 3. Install dependencies:
     ```bash
-    npm install
+    npm install discord-rpc ps-list node-fetch
     ```
 4. Create a Discord Application:
     - Go to https://discord.com/developers/applications
