@@ -36,6 +36,12 @@ Show your current Roblox game on Discord automatically.
     ```bash
     node index.js
     ```
+
+7. (OPTIONAL) Package to application:
+   ```bash
+   npm install -g pkg
+   pkg .
+   ```
 ## License
 
 MIT License
