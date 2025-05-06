@@ -13,8 +13,8 @@ Show your current Roblox game on Discord automatically.
 1. Install Node.js (https://nodejs.org/)
 2. Clone this repo:
     ```bash
-    git clone https://github.com/yourname/roblox-rich-presence.git
-    cd roblox-rich-presence
+    git clone https://github.com/Httpsdev10/DiscordRichPresence
+    cd DiscordRichPresence
     ```
 3. Install dependencies:
     ```bash
