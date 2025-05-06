@@ -1,3 +1,6 @@
+## Currently broken... Come back some other time when I decide to work on this again.
+## Or if you wanna fix the errors.
+
 # Roblox Rich Presence
 
 Show your current Roblox game on Discord automatically.
